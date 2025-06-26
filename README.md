@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name] — MuleSoft Developer
+# 👋 Hello, I'm Samuel — MuleSoft Developer
 
 Welcome to my GitHub profile! I specialize in building scalable, secure, and efficient integrations using MuleSoft's Anypoint Platform. From API-led connectivity to enterprise application integrations, I enjoy solving complex problems with elegant solutions.
 
@@ -24,21 +24,9 @@ Welcome to my GitHub profile! I specialize in building scalable, secure, and eff
 
 ---
 
-## 📌 Featured Repositories
-
-Here are some of the projects I'm working on or have contributed to:
-
-- 🔗 [`sap-to-salesforce-integration`](https://github.com/your-username/sap-to-salesforce-integration) — CPI/MuleSoft hybrid architecture for real-time order sync
-- ⚙️ [`dataweave-snippets`](https://github.com/your-username/dataweave-snippets) — Handy and reusable DataWeave functions for day-to-day development
-- 🔐 [`secure-api-template`](https://github.com/your-username/secure-api-template) — A ready-to-use template for JWT-secured Mule APIs
-
----
-
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- ✉️ [Email](mailto:your.email@example.com)
-- 🌐 [Personal Website/Blog](https://yourwebsite.dev)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/samuel-soares-gomes/))
 
 ---
 
